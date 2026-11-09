@@ -5,7 +5,7 @@ Práctica del módulo **0613 – Desarrollo web en entorno servidor** (2.º DAW)
 ## Enlaces
 
 - **Web publicada:** https://kicksaic.blog/
-- **Presentación (Canva):** https://www.canva.com/design/DAHaXOUiu1w/E7oVx4QE4T-lSCTafUzhJg/edit
+- **Presentación (Canva):** https://www.canva.com/design/DAHab2Kph68/agqvMHMgtTTxQqUr0DqU9A/edit
 
 ## Equipo
 
